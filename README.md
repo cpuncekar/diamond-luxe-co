@@ -12,7 +12,7 @@ Luxury crypto streetwear brand for investors, traders, and high-rollers. Built w
 
 ## 📸 Sneak Peek
 ![Homepage](./assets/diamond-luxe-home-page.png)
-![Product Page](./assets/dlc-product.png)
+![Product Page](./assets/product-page-buy-the-dip.png)
 
 ## 🔗 Related Links
 - [UI/UX Case Study (Framer)](https://chrispuncekar.com)
