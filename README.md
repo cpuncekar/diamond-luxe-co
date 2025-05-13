@@ -11,7 +11,7 @@ Luxury crypto streetwear brand for investors, traders, and high-rollers. Built w
 - Framer (branding & animation ideas)
 
 ## 📸 Sneak Peek
-![Homepage](./assets/dlc-homepage.png)
+![Homepage](./assets/diamond-luxe-home-page.png)
 ![Product Page](./assets/dlc-product.png)
 
 ## 🔗 Related Links
