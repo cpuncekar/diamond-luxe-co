@@ -2,7 +2,8 @@
 Luxury crypto streetwear brand for investors, traders, and high-rollers. Built with Shopify, designed in Figma + Framer.
 
 ## 🛍️ Live Site
-[https://www.diamondluxeco.com](https://www.diamondluxeco.com)
+Live Website: [https://www.diamondluxeco.com](https://www.diamondluxeco.com)
+Case Study: [https://www.diamondluxeco.com](https://www.diamondluxeco.com)
 
 ## 🔧 Tools Used
 - Shopify (custom product pages, Liquid code)
