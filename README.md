@@ -16,5 +16,4 @@ Case Study: [https://www.diamondluxeco.com](https://www.diamondluxeco.com)
 ![Product Page](./assets/product-page-buy-the-dip.png)
 
 ## 🔗 Related Links
-- [UI/UX Case Study (Framer)](https://chrispuncekar.com)
-- [Figma File](https://figma.com/whatever)
+- [UI/UX Case Study (Framer)](https://chrispuncekar.com/diamond-luxe-case-study)
